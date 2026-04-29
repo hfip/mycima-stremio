@@ -1,7 +1,7 @@
 const https = require("https");
 const http = require("http");
 
-const MYCIMA_URL = "https://mycima.red";
+const MYCIMA_URL = "https://mycima.rentals";
 const TMDB_KEY = "439c478a771f35c05022f9feabcca01c";
 
 const HEADERS = {
